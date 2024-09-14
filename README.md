@@ -1,6 +1,6 @@
-**Business Insights 360** is a guided project in the Power BI module, which is part of Codebasics data analysis Bootcamp.
+**Business Insights 360** is a guided project in **data analysis**, completed as a part of the the Power BI module, which is part of **Codebasics** data analysis Bootcamp.
 
-The link to dashbaord is attached in the desciption.
+**The link to dashbaord is attached in the desciption.**
 
 This comprehensive project delved into the data analysis of various functions of a Hardware manufacturing company like **Finance, Sales, Marketing & Supply Chain**  which will help to generate insights and make data driven decisions in these departments.
 
