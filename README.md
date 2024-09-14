@@ -8,15 +8,15 @@ This project helped me to strengthen important Data Analysis Techniques like :
 -Cleaning/replacing the outliers or errors
 
 **Data transformation**
-*DAX Measures
-*Power Query
-*Creating New Tables
-*Merging Tables
-*Calculated Columns
-*Conditional Columns
-*Measures
-*Dynamic Titles
-*Dynamic Measures
+* DAX Measures
+* Power Query
+* Creating New Tables
+* Merging Tables
+* Calculated Columns
+* Conditional Columns
+* Measures
+* Dynamic Titles
+* Dynamic Measures
 
 
 **Data Modeling**
