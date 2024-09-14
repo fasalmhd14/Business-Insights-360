@@ -1,8 +1,21 @@
 **Business Insights 360** is a guided project in **data analysis**, completed as a part of the the Power BI module, which is part of **Codebasics** data analysis Bootcamp.
 
+This data analysis and dashboarding is done using **Power BI**
+
 **The link to dashbaord is attached in the desciption.**
 
 This comprehensive project delved into the data analysis of various functions of a Hardware manufacturing company like **Finance, Sales, Marketing & Supply Chain**  which will help to generate insights and make data driven decisions in these departments.
+
+**Some of the Key Metrics used for the analysis are:**
+* Net Sales or Revenue
+* Gross Margin
+* Net Sales
+* Market Share
+* Net Error
+* Absolute Error
+* Forecast Accuracy
+* Year to Date and Year to Go
+
 
 This project helped me to strengthen important Data Analysis Techniques like :
 
